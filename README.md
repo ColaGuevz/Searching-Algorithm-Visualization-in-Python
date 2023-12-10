@@ -2,6 +2,6 @@
 
 Required libraries in python to run this program:
 
-networkx
-tkinter
-turtle
+1. networkx
+2. tkinter
+3. turtle
